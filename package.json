@@ -1,14 +1,14 @@
 {
-  "name": "example-frontend-next-js",
-  "description": "Sanity + Next.js frontend example",
+  "name": "iliminae",
+  "description": "iliminae",
   "private": true,
   "dependencies": {
     "@sanity/block-content-to-react": "^1.3.12",
     "@sanity/client": "^0.132.10",
     "@sanity/image-url": "^0.132.8",
-    "next": "^9.3.1",
-    "react": "^16.13.0",
-    "react-dom": "^16.13.0"
+    "next": "^9.5.5",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
   },
   "scripts": {
     "dev": "next",
